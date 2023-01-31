@@ -1,3 +1,4 @@
+//problem 3
 const dictionary = {
     "Hello": "Greeting or expression of goodwill",
     "Goodbye": "Farewell remark",
